@@ -11,6 +11,10 @@ A civilizational AI governance initiative: a short set of non-negotiable Foundat
 - [Research brief: grounding frameworks](docs/research-brief-frameworks.md) — how we relate to OECD, NIST, the EU AI Act, UNESCO, and ACM
 - [Pilot sheets](docs/pilot-sheets.md) — two small, concrete pilot shapes
 
+## En español
+
+- [Principios fundamentales para la IA](docs/principios-fundamentales.md): los ocho principios en español. Es un borrador traducido con ayuda de IA y está pendiente de revisión por un hablante nativo. Si hay diferencias, rige la versión en inglés.
+
 ## Contribute
 
 We want professionals who understand AI systems and everyday people who live with the consequences. Open an issue to tell us where a principle breaks in practice, or to suggest a pilot.
