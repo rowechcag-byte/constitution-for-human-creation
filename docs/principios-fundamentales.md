@@ -1,9 +1,9 @@
 # Principios fundamentales para la IA
 
 **También llamado:** Guía civilizatoria para la IA  
-**Versión:** 0.1-borrador (traducción al español de EE. UU.)  
+**Versión:** 0.1 (traducción al español de EE. UU.)  
 **Fecha:** 2026-09-30  
-**Estado:** Borrador para revisión. Traducción preparada con ayuda de IA; pendiente de revisión por un hablante nativo. En caso de diferencia, rige la versión en inglés ([foundational-principles.md](foundational-principles.md)).
+**Estado:** Una constitución viva, versión 0.1, que sigue creciendo con los comentarios. Traducción preparada con ayuda de IA; pendiente de revisión por un hablante nativo. En caso de diferencia, rige la versión en inglés ([foundational-principles.md](foundational-principles.md)).
 
 ---
 

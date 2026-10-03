@@ -2,18 +2,18 @@
 
 A civilizational AI governance initiative: a short set of non-negotiable Foundational Principles plus a living charter, so powerful AI can grow as a parallel digital layer without wrecking human creation, physical life, or accountable law.
 
-**Status:** Draft for public review. Not ratified. Not a world government, and it does not replace applicable law. No organization or person named in our background sources has endorsed or adopted this work.
+**Status:** A living constitution, version 0.1. It keeps growing with public feedback. Not ratified law. Not a world government, and it does not replace applicable law. No organization or person named in our background sources has endorsed or adopted this work.
 
 ## Read
 
-- [Foundational Principles for AI](docs/foundational-principles.md) — the eight-rule hard floor (v0.1-draft)
-- [Constitution for Human Creation](docs/constitution.md) — the fuller living charter (v0.2.3-draft)
+- [Foundational Principles for AI](docs/foundational-principles.md) — the eight-rule hard floor (version 0.1)
+- [Constitution for Human Creation](docs/constitution.md) — the fuller living charter (version 0.2.4)
 - [Research brief: grounding frameworks](docs/research-brief-frameworks.md) — how we relate to OECD, NIST, the EU AI Act, UNESCO, and ACM
 - [Pilot sheets](docs/pilot-sheets.md) — two small, concrete pilot shapes
 
 ## En español
 
-- [Principios fundamentales para la IA](docs/principios-fundamentales.md): los ocho principios en español. Es un borrador traducido con ayuda de IA y está pendiente de revisión por un hablante nativo. Si hay diferencias, rige la versión en inglés.
+- [Principios fundamentales para la IA](docs/principios-fundamentales.md): los ocho principios en español. Es una traducción hecha con ayuda de IA y está pendiente de revisión por un hablante nativo. Si hay diferencias, rige la versión en inglés.
 
 ## Contribute
 

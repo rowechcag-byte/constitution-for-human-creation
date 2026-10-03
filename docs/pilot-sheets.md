@@ -1,10 +1,10 @@
 # Pilot sheets: Constitution for Human Creation
 
-**Version:** 0.1-draft  
+**Version:** 0.1  
 **Date:** 2026-09-29  
 **Status:** Internal working drafts. Nobody has been approached to host either pilot.
 
-Each pilot tests the eight Foundational Principles (`Foundational-Principles-for-AI.md`, v0.1-draft) against one real AI use. A pilot counts only if a named human owner writes down a decision that the principles review changed.
+Each pilot tests the eight Foundational Principles ([foundational-principles.md](foundational-principles.md), version 0.1) against one real AI use. A pilot counts only if a named human owner writes down a decision that the principles review changed.
 
 ---
 

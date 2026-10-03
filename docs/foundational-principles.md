@@ -1,9 +1,9 @@
 # Foundational Principles for AI
 
 **Also called:** AI Civilizational Guide  
-**Version:** 0.1-draft  
+**Version:** 0.1  
 **Date:** 2026-09-25  
-**Status:** Draft for team review
+**Status:** A living constitution, version 0.1. It keeps growing with feedback. Not ratified law, and it does not replace applicable law.
 
 ---
 

@@ -2,9 +2,9 @@
 
 **Working title:** Constitution for Human Creation / AI Governance  
 **Organizing body:** Constitution for Human Creation  
-**Version:** `0.2.3-draft`  
-**Date:** `2026-09-26`  
-**Status:** Draft for team review
+**Version:** `0.2.4`  
+**Date:** `2026-10-03`  
+**Status:** A living constitution. It keeps growing with feedback. Not ratified law, and it does not replace applicable law.
 
 ---
 
@@ -24,7 +24,7 @@ Many cultures, told in different languages and symbols, converge on similar prac
 
 ### 1.1 Hard floor
 
-The eight Foundational Principles for AI, published as a companion one-page guide (version 0.1-draft or successor), are the hard floor of this Constitution. They are:
+The eight Foundational Principles for AI, published as a companion one-page guide (version 0.1 or successor), are the hard floor of this Constitution. They are:
 
 1. No Systematic Deception  
 2. No Unaccountable Irreversible Power  
@@ -352,7 +352,7 @@ Explicitly out of scope for this week: another full-charter drafting pass, mass 
 ## Appendix B — Sources
 
 1. **Origins.** Developed from early working conversations about AI governance.  
-2. **Companion document.** *Foundational Principles for AI* (v0.1-draft, 2026-09-25), same workspace / release package.
+2. **Companion document.** *Foundational Principles for AI* (v0.1, 2026-09-25), same workspace / release package.
 
 3. **Optional background frameworks** (concepts adapted; no affiliation or endorsement):  
    - OECD AI Principles — https://oecd.ai/en/ai-principles  
@@ -376,3 +376,4 @@ Civilizational and professional-code parallels (commandments-style baselines, co
 | 0.2.1-draft | 2026-09-25 | Organizing body named: Constitution for Human Creation (same as charter title); placeholder `[Initiative Name]` removed. |
 | 0.2.2-draft | 2026-09-25 | Appendix A: near-term adoption plan (package → first invites → refining/pilots → enforcement stub) folded from Planning’s next-week roadmap. |
 | 0.2.3-draft | 2026-09-26 | Appendix B: pointer to General Research frameworks brief; added EU AI Act, UNESCO, ACM as optional background (no endorsement). |
+| 0.2.4 | 2026-10-03 | Status reworded: a living constitution rather than a draft. No change to the principles or substance. |
