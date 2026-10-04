@@ -79,7 +79,7 @@ def render(src, out, label, lang):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{html.escape(title)} | Constitution for Human Creation</title>
+<title>{html.escape(title) if title == "Constitution for Human Creation" else html.escape(title) + " | Constitution for Human Creation"}</title>
 <meta name="description" content="Constitution for Human Creation: eight plain foundational principles for AI, a living constitution open for public feedback.">
 <link rel="stylesheet" href="style.css">
 </head>

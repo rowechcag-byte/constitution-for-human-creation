@@ -1,5 +1,7 @@
 # Constitution for Human Creation
 
+**Website:** [chcag.org](https://chcag.org)
+
 A civilizational AI governance initiative: a short set of non-negotiable Foundational Principles plus a living charter, so powerful AI can grow as a parallel digital layer without wrecking human creation, physical life, or accountable law.
 
 **Status:** A living constitution, version 0.1. It keeps growing with public feedback. Not ratified law. Not a world government, and it does not replace applicable law. No organization or person named in our background sources has endorsed or adopted this work.
