@@ -75,6 +75,14 @@ def render(src, out, label, lang):
     title = title_m.group(1).strip() if title_m else label
     nav = "".join('<a href="%s"%s>%s</a>' % (o, ' class="on"' if o == out else "", html.escape(l))
                   for _, o, l, _ in PAGES)
+    if lang == "es":
+        footer = f"""<footer>Texto bajo licencia <a href="https://creativecommons.org/licenses/by/4.0/deed.es">CC BY 4.0</a>. Puedes copiarlo, traducirlo y adaptarlo libremente, citando a la Constitución para la Creación Humana.<br>
+Fuente y comentarios: <a href="{REPO}">GitHub</a> · <a href="{REPO}/issues">abrir un issue</a><br>
+¿Prefieres no dar tu nombre? Escribe a <a href="mailto:feedback@chcag.org">feedback@chcag.org</a>.</footer>"""
+    else:
+        footer = f"""<footer>Text licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Copy, translate, and adapt it freely with credit to Constitution for Human Creation.<br>
+Source and feedback: <a href="{REPO}">GitHub</a> · <a href="{REPO}/issues">open an issue</a><br>
+Prefer not to be named? Email <a href="mailto:feedback@chcag.org">feedback@chcag.org</a>.</footer>"""
     page = f"""<!doctype html>
 <html lang="{lang}">
 <head>
@@ -89,9 +97,7 @@ def render(src, out, label, lang):
 <main>
 {body}
 </main>
-<footer>Text licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Copy, translate, and adapt it freely with credit to Constitution for Human Creation.<br>
-Source and feedback: <a href="{REPO}">GitHub</a> · <a href="{REPO}/issues">open an issue</a><br>
-Prefer not to be named? Email <a href="mailto:feedback@chcag.org">feedback@chcag.org</a>.</footer>
+{footer}
 </body>
 </html>
 """
