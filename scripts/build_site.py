@@ -26,8 +26,9 @@ CSS = """
 body{margin:0;background:var(--bg);color:var(--ink);font:18px/1.65 Georgia,'Times New Roman',serif}
 header{background:var(--accent);color:#fff;padding:18px 20px}
 header a.brand{color:#fff;text-decoration:none;font-weight:bold;font-size:1.15em}
-nav{margin-top:8px;font:15px/1.6 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
-nav a{color:#dfe9f5;margin-right:14px;text-decoration:none;white-space:nowrap}
+nav{margin-top:8px;display:flex;flex-wrap:wrap;gap:2px 14px;font:15px/1.6 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+nav a{color:#dfe9f5;text-decoration:none;white-space:nowrap}
+main{overflow-wrap:anywhere}
 nav a.on,nav a:hover{color:#fff;text-decoration:underline}
 main{max-width:760px;margin:0 auto;padding:28px 20px 48px}
 h1,h2,h3{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;line-height:1.25;color:var(--accent)}
