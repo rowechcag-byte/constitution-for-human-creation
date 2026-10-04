@@ -90,7 +90,8 @@ def render(src, out, label, lang):
 {body}
 </main>
 <footer>Text licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Copy, translate, and adapt it freely with credit to Constitution for Human Creation.<br>
-Source and feedback: <a href="{REPO}">GitHub</a> · <a href="{REPO}/issues">open an issue</a></footer>
+Source and feedback: <a href="{REPO}">GitHub</a> · <a href="{REPO}/issues">open an issue</a><br>
+Prefer not to be named? Email <a href="mailto:feedback@chcag.org">feedback@chcag.org</a>.</footer>
 </body>
 </html>
 """

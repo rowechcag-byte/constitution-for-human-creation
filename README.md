@@ -19,7 +19,7 @@ A civilizational AI governance initiative: a short set of non-negotiable Foundat
 
 ## Contribute
 
-We want professionals who understand AI systems and everyday people who live with the consequences. Open an issue to tell us where a principle breaks in practice, or to suggest a pilot.
+We want professionals who understand AI systems and everyday people who live with the consequences. Open an issue to tell us where a principle breaks in practice, or to suggest a pilot. If you'd rather not be named, email [feedback@chcag.org](mailto:feedback@chcag.org) instead.
 
 ## License
 
