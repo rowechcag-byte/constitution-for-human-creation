@@ -14,7 +14,7 @@ on:
         type: string
 
 env:
-  DEPLOYMENT_FOLDER: Constitution of Human Creation AI Governance 
+  DEPLOYMENT_FOLDER: site
 
 jobs:
 # Please do not rename this job
@@ -27,16 +27,15 @@ jobs:
         with:
           submodules: 'recursive'
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          node-version: vv0.2.2-draft
+          python-version: '3.12'
 
-      - name: Build Node assets
-        env:
-          CI: true
-          SITE_URL: ${{ inputs.site-url }}
-        run: npm install
+      - name: Build static site from Markdown
+        run: |
+          pip install markdown
+          python scripts/build_site.py
 
 # Please do not touch the following action
       - name: Store deployment content
