@@ -3,8 +3,8 @@
 **Founder and first author:** Rowe Heikkinen  
 **Working title:** Constitution for Human Creation / AI Governance  
 **Organizing body:** Constitution for Human Creation  
-**Version:** `0.2.4`  
-**Date:** `2026-10-03`  
+**Version:** `0.2.5`  
+**Date:** `2026-10-04`  
 **Status:** A living constitution. It keeps growing with feedback. Not ratified law, and it does not replace applicable law.
 
 ---
@@ -155,7 +155,7 @@ Concentration of irreversible effects—technical, legal, or practical—in unac
 
 ### 7.1 Digital does not override physical
 
-The digital civilization does not override physical reality, bodily integrity, property, or people’s concrete lives without clear consent and real recourse.
+The digital civilization does not override physical reality, bodily integrity, property, or people’s concrete lives without clear consent and real recourse. It never overrides applicable law.
 
 ### 7.2 Maps are not the territory
 
@@ -287,7 +287,7 @@ Any participant in good standing may propose an amendment with problem statement
 
 ### 13.3 Versioning
 
-- **0.x** — draft / early adoption  
+- **0.x** — living constitution, early adoption (not yet ratified)  
 - **1.0** — first ratified stable Constitution  
 - Thereafter: major = change to Foundational Principles or incompatible governance shift; minor = clarification or additive procedure  
 
@@ -378,3 +378,4 @@ Civilizational and professional-code parallels (commandments-style baselines, co
 | 0.2.2-draft | 2026-09-25 | Appendix A: near-term adoption plan (package → first invites → refining/pilots → enforcement stub) folded from Planning’s next-week roadmap. |
 | 0.2.3-draft | 2026-09-26 | Appendix B: pointer to General Research frameworks brief; added EU AI Act, UNESCO, ACM as optional background (no endorsement). |
 | 0.2.4 | 2026-10-03 | Status reworded: a living constitution rather than a draft. No change to the principles or substance. |
+| 0.2.5 | 2026-10-04 | Principle 5 clarified: consent and recourse apply to physical reality and people’s lives; digital systems never override applicable law (Foundational Principles and §7.1). Versioning note reworded. The principles document and this charter are numbered separately. |

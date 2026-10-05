@@ -2,7 +2,7 @@
 
 **Version:** 0.1  
 **Date:** 2026-09-29  
-**Status:** Internal working drafts. Nobody has been approached to host either pilot.
+**Status:** Working sheets, version 0.1. No outside host has signed on to either pilot yet.
 
 Each pilot tests the eight Foundational Principles ([foundational-principles.md](foundational-principles.md), version 0.1) against one real AI use. A pilot counts only if a named human owner writes down a decision that the principles review changed.
 
@@ -72,5 +72,6 @@ Each pilot tests the eight Foundational Principles ([foundational-principles.md]
 
 - Before any host is approached, the approach needs the initiative's go-ahead.
 - The host decides what can be published. Nothing about a host goes public without its written OK.
+- You don't have to put your name on it. Publicly you can stay anonymous. Privately you name one owner to us, and the people your AI tool affects must be able to reach that person and get an answer. Public reports call you "an unnamed host," and we never count adopters we haven't confirmed. You can reach us privately at [feedback@chcag.org](mailto:feedback@chcag.org).
 - The pilot is a review, not a certification. Hosts may not claim they are "certified" or "compliant" with Constitution for Human Creation.
 - If a pilot finds that a principle is unworkable or unclear, that gets logged as input for amending the principles.

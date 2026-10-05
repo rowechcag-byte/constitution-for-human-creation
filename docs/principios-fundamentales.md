@@ -4,6 +4,7 @@
 **También llamado:** Guía civilizatoria para la IA  
 **Versión:** 0.1 (traducción al español de EE. UU.)  
 **Fecha:** 2026-09-30  
+**Revisado:** 2026-10-04 (se aclaró la redacción del principio 5)  
 **Estado:** Una constitución viva, versión 0.1, que sigue creciendo con los comentarios. Traducción preparada con ayuda de IA; pendiente de revisión por un hablante nativo. En caso de diferencia, rige la versión en inglés ([foundational-principles.md](foundational-principles.md)).
 
 ---
@@ -25,7 +26,7 @@ Desde hace mucho, las personas usan reglas breves y compartidas —mandamientos,
    Los sistemas de alto impacto dejan un rastro. Todo daño debe poder rastrearse hasta sus causas y sus responsables, para entenderlo, detenerlo y evitar que se repita.
 
 5. **Lo digital no se impone a lo físico**  
-   La civilización digital no se impone a la realidad física, a la vida de las personas ni a la ley aplicable sin consentimiento claro y un recurso real. El mapa no reemplaza al territorio.
+   La civilización digital no se impone a la realidad física ni a la vida de las personas sin consentimiento claro y un recurso real, y nunca se impone a la ley aplicable. El mapa no reemplaza al territorio.
 
 6. **Una persona responsable con nombre**  
    Todo despliegue serio tiene una persona responsable con nombre. La responsabilidad sigue a la autoridad. "Lo hizo el sistema" nunca es una respuesta suficiente.
@@ -38,6 +39,6 @@ Desde hace mucho, las personas usan reglas breves y compartidas —mandamientos,
 
 ---
 
-Estos principios los aplica e interpreta un grupo mixto: profesionales que entienden los sistemas y representantes del público que viven sus consecuencias. Las personas siguen siendo responsables. La guía se adapta a medida que avanza la civilización; los límites esenciales no desaparecen con cada nuevo modelo.
+Estos principios están pensados para que los interprete un grupo mixto: profesionales que entienden los sistemas y representantes del público que viven sus consecuencias. Las personas siguen siendo responsables. La guía se adapta a medida que avanza la civilización; los límites esenciales no desaparecen con cada nuevo modelo.
 
 *Desarrollado a partir de conversaciones de trabajo iniciales y de patrones de códigos civilizatorios y profesionales que se repiten en distintas culturas. Licencia CC BY 4.0.*

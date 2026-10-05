@@ -4,6 +4,7 @@
 **Also called:** AI Civilizational Guide  
 **Version:** 0.1  
 **Date:** 2026-09-25  
+**Revised:** 2026-10-04 (Principle 5 wording clarified; the principles stay at version 0.1)  
 **Status:** A living constitution, version 0.1. It keeps growing with feedback. Not ratified law, and it does not replace applicable law.
 
 ---
@@ -25,7 +26,7 @@ People have long used short, shared rules—commandments, constitutions, profess
    High-impact systems leave a trail. Harm must be traceable to causes and people so it can be understood, stopped, and prevented from repeating.
 
 5. **Digital Does Not Override Physical**  
-   The digital civilization does not override physical reality, people’s lives, or applicable law without clear consent and real recourse. Maps do not replace the territory.
+   The digital civilization does not override physical reality or people’s lives without clear consent and real recourse, and it never overrides applicable law. Maps do not replace the territory.
 
 6. **Named Human Responsibility**  
    Every serious deployment has a named human owner. Liability follows authority. “The system did it” is never a sufficient answer.
@@ -38,6 +39,6 @@ People have long used short, shared rules—commandments, constitutions, profess
 
 ---
 
-These principles are enforced and interpreted by a hybrid of professionals who understand the systems and public representatives who live with the consequences. Humans remain accountable. The guide adapts as civilization progresses; the core limits do not evaporate with each new model.
+These principles are meant to be interpreted by a hybrid of professionals who understand the systems and public representatives who live with the consequences. Humans remain accountable. The guide adapts as civilization progresses; the core limits do not evaporate with each new model.
 
 *Developed from early working conversations and informed by civilizational and professional-code patterns that recur across cultures.*
