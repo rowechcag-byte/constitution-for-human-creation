@@ -1,5 +1,6 @@
 # Constitution for Human Creation
 
+**Founder and first author:** Rowe Heikkinen  
 **Working title:** Constitution for Human Creation / AI Governance  
 **Organizing body:** Constitution for Human Creation  
 **Version:** `0.2.4`  

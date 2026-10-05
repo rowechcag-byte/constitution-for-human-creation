@@ -1,5 +1,6 @@
 # Foundational Principles for AI
 
+**Founder and first author:** Rowe Heikkinen  
 **Also called:** AI Civilizational Guide  
 **Version:** 0.1  
 **Date:** 2026-09-25  

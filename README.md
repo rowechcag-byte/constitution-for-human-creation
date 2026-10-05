@@ -1,6 +1,7 @@
 # Constitution for Human Creation
 
-**Website:** [chcag.org](https://chcag.org)
+**Website:** [chcag.org](https://chcag.org)  
+**Founder and first author:** Rowe Heikkinen
 
 A civilizational AI governance initiative: a short set of non-negotiable Foundational Principles plus a living charter, so powerful AI can grow as a parallel digital layer without wrecking human creation, physical life, or accountable law.
 

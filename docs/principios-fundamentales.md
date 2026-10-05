@@ -1,5 +1,6 @@
 # Principios fundamentales para la IA
 
+**Fundador y primer autor:** Rowe Heikkinen  
 **También llamado:** Guía civilizatoria para la IA  
 **Versión:** 0.1 (traducción al español de EE. UU.)  
 **Fecha:** 2026-09-30  
