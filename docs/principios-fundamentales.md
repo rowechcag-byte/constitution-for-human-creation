@@ -4,7 +4,7 @@
 **También llamado:** Guía civilizatoria para la IA  
 **Versión:** 0.1 (traducción al español de EE. UU.)  
 **Fecha:** 2026-09-30  
-**Revisado:** 2026-10-04 (se aclaró la redacción del principio 5)  
+**Revisado:** 2026-10-04 (se aclaró la redacción del principio 5; es provisional y está abierta a comentarios del público hasta que el Consejo se constituya y la ratifique)  
 **Estado:** Una constitución viva, versión 0.1, que sigue creciendo con los comentarios. Traducción preparada con ayuda de IA; pendiente de revisión por un hablante nativo. En caso de diferencia, rige la versión en inglés ([foundational-principles.md](foundational-principles.md)).
 
 ---
