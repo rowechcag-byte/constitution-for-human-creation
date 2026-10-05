@@ -14,6 +14,8 @@ Each pilot tests the eight Foundational Principles ([foundational-principles.md]
 
 **Named owner:** One person at the host who has authority over how the tool is used and who signs the final decision. It can't be a committee or a vendor.
 
+**Public reviewer:** Until further notice, Rowe Heikkinen, founder and first author, serves as the interim public reviewer for Pilot A. He uses or examines the tool from the outside and writes down what felt unclear, unfair, or wrong. The notes are attached to the case note.
+
 **Length:** About 30 days.
 
 **Steps**, which borrow the Map and Measure steps of the NIST AI Risk Management Framework as a checklist, not as compliance:

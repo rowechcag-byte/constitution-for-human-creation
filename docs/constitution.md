@@ -3,7 +3,7 @@
 **Founder and first author:** Rowe Heikkinen  
 **Working title:** Constitution for Human Creation / AI Governance  
 **Organizing body:** Constitution for Human Creation  
-**Version:** `0.2.5`  
+**Version:** `0.2.6`  
 **Date:** `2026-10-04`  
 **Status:** A living constitution. It keeps growing with feedback. Not ratified law, and it does not replace applicable law.
 
@@ -270,6 +270,8 @@ Council decisions on material matters record professional and public input. Conf
 
 Until the Standing Hybrid Council is seated, a small starting group (technical + public-minded) refines the one-pager, secures first pilots, and prepares public release. Contributors who help under the initiative’s name follow the Foundational Principles, accept named ownership for their releases, and escalate dual-use concerns early. Personal speech in a private capacity is outside scope unless it claims to speak for this initiative or misuses its credentials.
 
+**Interim steward.** Until further notice, and until the Standing Hybrid Council is seated, Rowe Heikkinen, founder and first author, serves as interim steward. The interim steward makes the decisions this Constitution gives to the Council, writes down each one with its reason, and hands them to the Council for review once it is seated.
+
 ---
 
 ## Article 13 — Amendment
@@ -379,3 +381,4 @@ Civilizational and professional-code parallels (commandments-style baselines, co
 | 0.2.3-draft | 2026-09-26 | Appendix B: pointer to General Research frameworks brief; added EU AI Act, UNESCO, ACM as optional background (no endorsement). |
 | 0.2.4 | 2026-10-03 | Status reworded: a living constitution rather than a draft. No change to the principles or substance. |
 | 0.2.5 | 2026-10-04 | Principle 5 clarified: consent and recourse apply to physical reality and people’s lives; digital systems never override applicable law (Foundational Principles and §7.1). Versioning note reworded. The principles document and this charter are numbered separately. |
+| 0.2.6 | 2026-10-04 | Article 12: interim steward named until further notice (Rowe Heikkinen, founder and first author). Pilot sheets: interim public reviewer for Pilot A. |
