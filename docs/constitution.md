@@ -3,7 +3,7 @@
 **Founder and first author:** Rowe Heikkinen  
 **Working title:** Constitution for Human Creation / AI Governance  
 **Organizing body:** Constitution for Human Creation  
-**Version:** `0.2.7`  
+**Version:** `0.2.8`  
 **Date:** `2026-10-05`  
 **Status:** A living constitution. It keeps growing with feedback. Not ratified law, and it does not replace applicable law.
 
@@ -172,6 +172,8 @@ High-impact uses that affect people’s lives, rights, or livelihoods require cl
 ### 7.5 When a principle is broken
 
 When a principle is broken, CHC documents what happened and helps the people affected report it. Enforcement belongs to the highest level of government that applies where the harm happened, under its own laws, including the anti-bullying and online harassment laws many places already have. Fixing the harm is the job of the people who build and run the AI system. CHC’s own step is to record the breach and decide whether that adopter may keep saying it follows this Constitution.
+
+CHC has no power of authority to enforce compliance. When someone is harmed, CHC may contact the AI company or operator on their behalf, only with that person’s permission and without naming them unless they agree. CHC will bring a documented complaint and recommend that the company follow this Constitution. CHC is not a lawyer or a regulator, and contacting a company does not replace official complaint channels, so CHC will point people to those channels too. Each contact is approved by the interim steward and logged. Any further step belongs to that company and to the law where the harm happened.
 
 ---
 
@@ -388,3 +390,4 @@ Civilizational and professional-code parallels (commandments-style baselines, co
 | 0.2.5 | 2026-10-04 | Principle 5 clarified: consent and recourse apply to physical reality and people’s lives; digital systems never override applicable law (Foundational Principles and §7.1). Provisional until ratified by the Council. Versioning note reworded. The principles document and this charter are numbered separately. |
 | 0.2.6 | 2026-10-04 | Article 12: interim steward named until further notice (Rowe Heikkinen, founder and first author). Pilot sheets: interim public reviewer for Pilot A. The steward may not change the Foundational Principles alone; changes are provisional until Council ratification. |
 | 0.2.7 | 2026-10-05 | §6.2: weapons work changed from “out of scope” to “prohibited.” New §7.5: what happens when a principle is broken. Glossary: “high-impact (or serious)” defined. Adopted by the interim steward; provisional until reviewed by the Council once seated. |
+| 0.2.8 | 2026-10-05 | §7.5: CHC has no enforcement power; it may contact a company on a harmed person’s behalf with their permission, keeps them unnamed unless they agree, points people to official channels, and logs each contact with steward approval. Provisional until reviewed by the Council. |
