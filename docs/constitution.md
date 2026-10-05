@@ -3,8 +3,8 @@
 **Founder and first author:** Rowe Heikkinen  
 **Working title:** Constitution for Human Creation / AI Governance  
 **Organizing body:** Constitution for Human Creation  
-**Version:** `0.2.6`  
-**Date:** `2026-10-04`  
+**Version:** `0.2.7`  
+**Date:** `2026-10-05`  
 **Status:** A living constitution. It keeps growing with feedback. Not ratified law, and it does not replace applicable law.
 
 ---
@@ -139,7 +139,7 @@ Systematic deception or manipulation of people—especially at scale—is prohib
 
 ### 6.2 Coercion and force
 
-Tools that scale coercion or force require sharper boundaries, higher scrutiny, and clearer human ownership than ordinary assistive tools. Primary intent to increase lethality or enable unlawful force is out of scope for work under this Constitution.
+Tools that scale coercion or force require sharper boundaries, higher scrutiny, and clearer human ownership than ordinary assistive tools. Work whose primary intent is to increase lethality or enable unlawful force is prohibited under this Constitution.
 
 ### 6.3 Surveillance
 
@@ -168,6 +168,10 @@ This Constitution does not replace applicable local, national, or international 
 ### 7.4 Consent and recourse
 
 High-impact uses that affect people’s lives, rights, or livelihoods require clear notice where feasible, lawful basis, and pathways for challenge and remedy.
+
+### 7.5 When a principle is broken
+
+When a principle is broken, CHC documents what happened and helps the people affected report it. Enforcement belongs to the highest level of government that applies where the harm happened, under its own laws, including the anti-bullying and online harassment laws many places already have. Fixing the harm is the job of the people who build and run the AI system. CHC’s own step is to record the breach and decide whether that adopter may keep saying it follows this Constitution.
 
 ---
 
@@ -308,6 +312,7 @@ Adopted changes update version, date, and the changelog at the end of this file.
 | **Digital civilization / “the either”** | The founder’s plain term for the growing parallel layer of AI systems, agents, and coordination in digital space—named to avoid technical fog. Not a mystical realm; a practical label for scale and pattern. |
 | **Ends** | What is sought or forbidden; goals and purposes set by humans. |
 | **Foundational Principles** | The short, hard-to-amend baseline rules in the companion one-pager. |
+| **High-impact (or serious)** | A use that can affect a person’s safety, rights, money, job, housing, schooling, health, or legal standing, or that reaches many people at once. When unsure, treat it as high-impact. |
 | **Hybrid authority** | Shared governance by technical professionals and public representatives who check each other. |
 | **Means** | Methods and actions used to pursue ends; AI may assist here under constraint. |
 | **Named human owner** | The individual accountable for a release, deployment, or official statement; cannot be an AI system. |
@@ -382,3 +387,4 @@ Civilizational and professional-code parallels (commandments-style baselines, co
 | 0.2.4 | 2026-10-03 | Status reworded: a living constitution rather than a draft. No change to the principles or substance. |
 | 0.2.5 | 2026-10-04 | Principle 5 clarified: consent and recourse apply to physical reality and people’s lives; digital systems never override applicable law (Foundational Principles and §7.1). Provisional until ratified by the Council. Versioning note reworded. The principles document and this charter are numbered separately. |
 | 0.2.6 | 2026-10-04 | Article 12: interim steward named until further notice (Rowe Heikkinen, founder and first author). Pilot sheets: interim public reviewer for Pilot A. The steward may not change the Foundational Principles alone; changes are provisional until Council ratification. |
+| 0.2.7 | 2026-10-05 | §6.2: weapons work changed from “out of scope” to “prohibited.” New §7.5: what happens when a principle is broken. Glossary: “high-impact (or serious)” defined. Adopted by the interim steward; provisional until reviewed by the Council once seated. |
