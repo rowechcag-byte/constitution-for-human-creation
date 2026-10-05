@@ -41,6 +41,7 @@ hr{border:0;border-top:1px solid var(--line);margin:2em 0}
 blockquote{border-left:4px solid var(--line);margin:1em 0;padding:.2em 1em;color:var(--muted)}
 footer{border-top:1px solid var(--line);color:var(--muted);font:14px/1.6 system-ui,sans-serif;text-align:center;padding:20px}
 footer a{color:var(--muted)}
+@media print{nav{display:none}footer a[href^="http"]::after{content:" (" attr(href) ")";word-break:break-all}}
 """
 
 def fix_links(m):
