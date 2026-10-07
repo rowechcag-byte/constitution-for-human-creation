@@ -1,11 +1,6 @@
 # Constitution for Human Creation
 
-**Website:** [chcag.org](https://chcag.org)  
-**Founder and first author:** Rowe Heikkinen
-
-A civilizational AI governance initiative: a short set of non-negotiable Foundational Principles plus a living charter, so powerful AI can grow as a parallel digital layer without wrecking human creation, physical life, or accountable law.
-
-**Status:** A living constitution, version 0.1. It keeps growing with public feedback. The eight principles (version 0.1) and the fuller charter (version 0.2.8) are numbered separately. Not ratified law. Not a world government, and it does not replace applicable law. No organization or person named in our background sources has endorsed or adopted this work.
+> **Status (2026-10-06):** This project has ended. The website at [chcag.org](https://chcag.org) is offline. This repository is a **read-only archive**. No further outreach or updates are planned.
 
 ## Read
 
