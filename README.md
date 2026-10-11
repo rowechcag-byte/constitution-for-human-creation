@@ -1,9 +1,5 @@
 # Constitution for Human Creation
 
-> **Status (2026-10-06):** This project has ended. The website at [chcag.org](https://chcag.org) is offline. This repository is a **read-only archive**. No further outreach or updates are planned.
-
-## Read
-
 - [Foundational Principles for AI](docs/foundational-principles.md) — the eight-rule hard floor (version 0.1)
 - [Constitution for Human Creation](docs/constitution.md) — the fuller living charter (version 0.2.8)
 - [Research brief: grounding frameworks](docs/research-brief-frameworks.md) — how we relate to OECD, NIST, the EU AI Act, UNESCO, and ACM
