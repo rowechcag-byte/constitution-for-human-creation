@@ -16,6 +16,7 @@ PAGES = [  # (source, output, nav label, lang)
     ("docs/principios-fundamentales.md", "principios.html", "En español", "es"),
     ("docs/research-brief-frameworks.md", "research-brief.html", "Research brief", "en"),
     ("docs/pilot-sheets.md", "pilot-sheets.html", "Pilots", "en"),
+    ("docs/meetings.md", "meetings.html", "Meetings", "en"),
     ("docs/contribute.md", "contribute.html", "Get involved", "en"),
 ]
 LINKS = {pathlib.PurePosixPath(src).name: out for src, out, _, _ in PAGES}
