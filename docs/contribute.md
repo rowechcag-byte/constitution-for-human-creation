@@ -10,6 +10,10 @@ Constitution for Human Creation grows through people who care about how powerful
 - **Translate** the texts into other languages.
 - **Share it** with people and groups who should be part of the conversation.
 
+## Professionals in every field
+
+We don't think a founder should decide how AI is used in medicine, law, or the classroom. People who do that work should help write those parts. We're especially looking for citizen professionals in fields like medicine and nursing, law, education, mental health, farming and ranching, the trades, public safety, and media to help shape the sections that touch their own work. Leadership roles will be chosen by vote as the group grows.
+
 ## Contact us
 
 Email **[Rowe.heikkinen@chcag.org](mailto:Rowe.heikkinen@chcag.org?subject=Interested%20in%20contributing)** and tell us a little about yourself:
