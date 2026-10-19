@@ -14,6 +14,13 @@ Constitution for Human Creation grows through people who care about how powerful
 
 We don't think a founder should decide how AI is used in medicine, law, or the classroom. People who do that work should help write those parts. We're especially looking for citizen professionals in fields like medicine and nursing, law, education, mental health, farming and ranching, the trades, public safety, and media to help shape the sections that touch their own work. Leadership roles will be chosen by vote as the group grows.
 
+## Print a flyer
+
+Want to share the project locally? Print a few flyers for your library, coffee shop, or workplace. These are temporary versions until our final design is ready.
+
+- [Color flyer (PDF)](downloads/chcag-flyer.pdf)
+- [Ink-saver flyer, black and white (PDF)](downloads/chcag-flyer-ink-saver.pdf), easy on home printers
+
 ## Contact us
 
 Email **[Rowe.heikkinen@chcag.org](mailto:Rowe.heikkinen@chcag.org?subject=Interested%20in%20contributing)** and tell us a little about yourself:

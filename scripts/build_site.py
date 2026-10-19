@@ -112,6 +112,9 @@ def main():
         shutil.rmtree(OUT)
     OUT.mkdir()
     (OUT / "style.css").write_text(CSS.strip() + "\n", encoding="utf-8")
+    dl = pathlib.Path(__file__).resolve().parent.parent / "docs" / "downloads"
+    if dl.exists():
+        shutil.copytree(dl, OUT / "downloads")
     for p in PAGES:
         render(*p)
     print("built", len(PAGES), "pages into", OUT)
