@@ -19,6 +19,7 @@ PAGES = [  # (source, output, nav label, lang)
     ("docs/meetings.md", "meetings.html", "Meetings", "en"),
     ("docs/contribute.md", "contribute.html", "Get involved", "en"),
     ("docs/press.md", "press.html", "Press", "en"),
+    ("docs/open-letter.md", "open-letter.html", "Open letter", "en"),
 ]
 LINKS = {pathlib.PurePosixPath(src).name: out for src, out, _, _ in PAGES}
 LINKS["LICENSE"] = "https://creativecommons.org/licenses/by/4.0/"
