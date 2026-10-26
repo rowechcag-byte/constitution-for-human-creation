@@ -6,7 +6,47 @@
 **From:** Rowe Heikkinen, Founder, Constitution for Human Creation  
 **Re:** Proposed Rules 4 CCR 904-6, Automated Decision-Making Technology & Conversational Artificial Intelligence Service Rules, implementing the Automated Decision-Making Technology Act (ADMT Act, SB26-189) and the Chatbot Safety Act (HB26-1263). Comments address the August 11, 2026 proposed rules and the October 6, 2026 interim draft.
 
----
+**On this page:** [The letter in plain words](#the-letter-in-plain-words) · [The full comment as filed](#the-full-comment-as-filed)
+
+## The letter in plain words
+
+This is a short, plain-language version of each part. The full comment we filed follows below.
+
+### Who we are
+
+Constitution for Human Creation is a volunteer-led Colorado civic project inviting everyday people to help shape a public charter for how AI should be governed. It's a living draft, not law, and no one has endorsed it. We intend to become a formal organization, with leadership chosen from among our contributors by an open public vote. The rules already do much of what our principles ask for, and our five suggestions are meant to strengthen them.
+
+### 1. A named, accountable person
+
+*Principle: Named Human Responsibility.*
+
+Companies using AI should stay responsible even when someone else runs the system. We ask the state to bring back the standard that, whenever feasible, the person reviewing a decision isn't the one who made it or that person's subordinate, and to have each company name an accountable person or office for each AI system.
+
+### 2. Records made at the time
+
+*Principle: Keep Systems Auditable.*
+
+When a company claims its AI didn't really affect a decision, records made at the time of the decision should count most. Explanations written afterward shouldn't be enough on their own.
+
+### 3. Chatbot honesty you can check
+
+*Principle: No Systematic Deception.*
+
+Chatbots have to say they're AI. We ask that companies' annual reports summarize how they tested whether people actually understood that, what they found, and what they changed.
+
+### 4. Real recourse before harm
+
+*Principle: Digital Does Not Override Physical.*
+
+When an AI decision would deny someone food, shelter, or needed medical care and would be hard to undo, the company should pause it where feasible while a correction or review is pending, or write down why it couldn't.
+
+### 5. The people who do the work
+
+*Principle: Professionals and the public interpret the principles together.*
+
+Chatbot companies should say whether licensed mental-health professionals reviewed their self-harm protocols. As the rules develop, the state should hear from nurses, teachers, housing counselors, HR staff, and lending officers, not only developers and lawyers.
+
+## The full comment as filed
 
 Thank you for the chance to comment, and for the clear, example-driven drafts your office has published.
 
@@ -14,7 +54,7 @@ My name is Rowe Heikkinen. I founded Constitution for Human Creation, a voluntee
 
 One set of rules implements two laws, so each rule we cite below is labeled with the act it implements. Rule numbers follow the October 6 interim draft unless noted as August numbering. Overall, these rules already reflect much of what our principles ask for: plain, accurate communications (Rule 3.2, which applies to both acts), specific principal reasons in adverse outcome notices (Rule 7, ADMT Act, SB26-189), meaningful human review (Rule 8.7, ADMT Act, SB26-189), and chatbot disclosure and annual reporting (Rules 11 and 14, Chatbot Safety Act, HB26-1263). The five suggestions below are meant to strengthen what is already there.
 
-## 1. Keep a named, accountable person at the center of human review.
+### 1. Keep a named, accountable person at the center of human review.
 
 *Principle: Named Human Responsibility. “Every serious deployment has a named human owner. Liability follows authority. ‘The system did it’ is never a sufficient answer.”*
 
@@ -22,7 +62,7 @@ We support Rule 4.3(A) (ADMT Act, SB26-189), which makes the Deployer responsibl
 
 **Suggestion:** Restore that independence standard “whenever feasible,” alongside the new internal-or-external option. Also ask each Deployer to designate a named accountable person or office for each Covered ADMT, recorded with the Rule 8.7(H) (ADMT Act, SB26-189) documentation and available to the Department on request.
 
-## 2. Rebut the material-influence presumption with records made at the time.
+### 2. Rebut the material-influence presumption with records made at the time.
 
 *Principle: Keep Systems Auditable. “Harm must be traceable to causes and people so it can be understood, stopped, and prevented from repeating.”*
 
@@ -30,7 +70,7 @@ Your October 6 cover page asks what alternative to the rebuttable presumption wo
 
 **Suggestion:** State that evidence created at or before the time of the decision (for example, a decision-maker’s recorded independent judgment, or a published, consistently applied cut-off) carries the most weight, and that after-the-fact statements alone generally will not rebut the presumption. We also support keeping the consideration in the Rule 2 definition of “De Minimis Factor” (ADMT Act, SB26-189) about whether a Deployer’s marketing, contracts, internal policies, or training materials direct staff to treat the output as primary or authoritative.
 
-## 3. Make chatbot honesty measurable.
+### 3. Make chatbot honesty measurable.
 
 *Principle: No Systematic Deception. “Do not build or run systems that systematically deceive or manipulate people.”*
 
@@ -38,7 +78,7 @@ We support Rule 3.2(A)(7) (applies to both acts; communications must not be unfa
 
 **Suggestion:** Since the Chatbot Safety Act lets the Attorney General determine additional metrics on the efficacy and reliability of implemented safeguards for the annual report, add to Rule 14 (Chatbot Safety Act, HB26-1263) a short summary of the Operator’s user- awareness testing for its AI disclosures: what was tested, the results, and what changed. That turns a good disclosure rule into something the public can check over time.
 
-## 4. Real recourse before harm becomes irreversible.
+### 4. Real recourse before harm becomes irreversible.
 
 *Principle: Digital Does Not Override Physical. The digital layer “does not override physical reality or people’s lives without clear consent and real recourse.”*
 
@@ -46,7 +86,7 @@ The interim draft removed the August draft’s provisions that, where possible, 
 
 **Suggestion:** Restore a narrow version of that protection. When an Adverse Outcome would deny food, shelter, or required medical care and would be hard to undo, the Deployer should pause the outcome where feasible while a timely correction or review request is pending, or document why it could not.
 
-## 5. Let the people who do the work help shape the rules for their field.
+### 5. Let the people who do the work help shape the rules for their field.
 
 *Principle: Our project holds that principles should be interpreted by “a hybrid of professionals who understand the systems and public representatives who live with the consequences.” We don’t think a founder, or any one group, should decide how AI is used in medicine, housing, or the classroom.*
 
