@@ -34,6 +34,14 @@ nav{margin-top:8px;display:flex;flex-wrap:wrap;gap:2px 14px;font:15px/1.6 system
 nav a{color:#dfe9f5;text-decoration:none;white-space:nowrap}
 main{overflow-wrap:anywhere}
 nav a.on,nav a:hover{color:#fff;text-decoration:underline}
+nav details.dd{position:relative}
+nav summary{list-style:none;cursor:pointer;color:#dfe9f5;white-space:nowrap}
+nav summary::-webkit-details-marker{display:none}
+nav summary::after{content:" \\25BE";font-size:.8em}
+nav summary.on,nav summary:hover{color:#fff;text-decoration:underline}
+nav .menu{position:absolute;z-index:10;top:100%;left:0;min-width:200px;background:#fff;border:1px solid var(--line);border-radius:6px;box-shadow:0 6px 18px rgba(0,0,0,.15);padding:6px 0}
+nav .menu a{display:block;color:var(--ink);padding:6px 14px}
+nav .menu a:hover{background:#f1efe9;color:var(--accent);text-decoration:none}
 main{max-width:760px;margin:0 auto;padding:28px 20px 48px}
 h1,h2,h3{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;line-height:1.25;color:var(--accent)}
 h1{font-size:1.9em;margin-top:.2em}
@@ -71,6 +79,35 @@ def loosen_lists(text):
         prev = line
     return "\n".join(out) + "\n"
 
+MENU = [  # top-level tab: (label, href) or (label, [(label, href), ...])
+    ("Home", "index.html"),
+    ("The Constitution", [("The Eight Principles", "principles.html"), ("Full Constitution", "constitution.html"),
+                          ("Research brief", "research-brief.html"), ("Pilots", "pilot-sheets.html")]),
+    ("Get involved", [("Ways to help", "contribute.html"), ("Speak for the project", "contribute.html#speak-for-the-project"),
+                      ("Print a flyer", "contribute.html#print-a-flyer")]),
+    ("Meetings", "meetings.html"),
+    ("News", [("Open letter", "open-letter.html"), ("Press", "press.html")]),
+    ("En español", "principios.html"),
+]
+
+
+NAV_JS = '<script>document.addEventListener("click",e=>{document.querySelectorAll("nav details[open]").forEach(d=>{if(!d.contains(e.target))d.removeAttribute("open")})});document.querySelectorAll("nav details").forEach(d=>d.addEventListener("toggle",()=>{if(d.open)document.querySelectorAll("nav details[open]").forEach(o=>{if(o!==d)o.removeAttribute("open")})}))</script>'
+
+
+def build_nav(out):
+    parts = []
+    for label, target in MENU:
+        if isinstance(target, str):
+            on = ' class="on"' if target == out else ""
+            parts.append('<a href="%s"%s>%s</a>' % (target, on, html.escape(label)))
+        else:
+            here = any(h.split("#")[0] == out for _, h in target)
+            items = "".join('<a href="%s">%s</a>' % (h, html.escape(l)) for l, h in target)
+            parts.append('<details class="dd"><summary%s>%s</summary><div class="menu">%s</div></details>'
+                         % (' class="on"' if here else "", html.escape(label), items))
+    return "".join(parts)
+
+
 def render(src, out, label, lang):
     text = (ROOT / src).read_text(encoding="utf-8")
     text = loosen_lists(text)
@@ -78,8 +115,7 @@ def render(src, out, label, lang):
     body = re.sub(r'href="([^"]+)"', fix_links, body)
     title_m = re.search(r"^#\s+(.+)$", text, re.M)
     title = title_m.group(1).strip() if title_m else label
-    nav = "".join('<a href="%s"%s>%s</a>' % (o, ' class="on"' if o == out else "", html.escape(l))
-                  for _, o, l, _ in PAGES)
+    nav = build_nav(out)
     if lang == "es":
         footer = f"""<footer>Texto bajo licencia <a href="https://creativecommons.org/licenses/by/4.0/deed.es">CC BY 4.0</a>. Puedes copiarlo, traducirlo y adaptarlo libremente, citando a la Constitución para la Creación Humana.<br>
 Fuente y comentarios: <a href="{REPO}">GitHub</a> · <a href="{REPO}/issues">abrir un issue</a><br>
@@ -103,6 +139,7 @@ Prefer not to be named? Email <a href="mailto:feedback@chcag.org">feedback@chcag
 {body}
 </main>
 {footer}
+{NAV_JS}
 </body>
 </html>
 """
