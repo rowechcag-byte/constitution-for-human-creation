@@ -10,7 +10,7 @@
 
 Thank you for the chance to comment, and for the clear, example-driven drafts your office has published.
 
-My name is Rowe Heikkinen. I founded Constitution for Human Creation, a volunteer-led Colorado civic project that invites everyday people to help shape a public charter for how AI should be governed. It pairs eight short Foundational Principles for AI with a longer living charter that grows through public feedback. It is a living draft. It is not law, it does not replace applicable law, and no organization or person has endorsed it. We are not a nonprofit or an industry group. We intend to become a formal organization, with leadership chosen by open vote of our contributors. I am writing as a citizen, and nothing here is legal advice.
+My name is Rowe Heikkinen. I founded Constitution for Human Creation, a volunteer-led Colorado civic project that invites everyday people to help shape a public charter for how AI should be governed. It pairs eight short Foundational Principles for AI with a longer living charter that grows through public feedback. It is a living draft. It is not law, it does not replace applicable law, and no organization or person has endorsed it. We are not a nonprofit or an industry group. We intend to become a formal organization, with leadership chosen from among our contributors by an open public vote.* I am writing as a citizen, and nothing here is legal advice.
 
 One set of rules implements two laws, so each rule we cite below is labeled with the act it implements. Rule numbers follow the October 6 interim draft unless noted as August numbering. Overall, these rules already reflect much of what our principles ask for: plain, accurate communications (Rule 3.2, which applies to both acts), specific principal reasons in adverse outcome notices (Rule 7, ADMT Act, SB26-189), meaningful human review (Rule 8.7, ADMT Act, SB26-189), and chatbot disclosure and annual reporting (Rules 11 and 14, Chatbot Safety Act, HB26-1263). The five suggestions below are meant to strengthen what is already there.
 
@@ -55,6 +55,8 @@ The rules already lean on field expertise: the “Evidence-Based Method” defin
 **Suggestion:** (a) In Rule 14.3(A)(3) (Chatbot Safety Act, HB26-1263), ask Operators to state whether licensed mental-health or suicide-prevention professionals reviewed their protocols. (b) As the Department refines the sector examples (Rules 6.2 and 7.5, both ADMT Act, SB26-189) and any later guidance, invite working practitioners such as nurses, teachers, housing counselors, HR staff, and lending officers, in addition to developers and counsel.
 
 Thank you for considering these comments. We would be glad to share more input, including feedback from the professionals and residents who take part in our open Monday meetings. You can reach me at Rowe.heikkinen@chcag.org. The principles are published at chcag.org.
+
+*\* This line was clarified after filing. The comment as filed said "leadership chosen by open vote of our contributors." What we mean is that the public votes on the people who contribute.*
 
 Respectfully,  
 Rowe Heikkinen  
