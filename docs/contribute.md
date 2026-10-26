@@ -12,11 +12,11 @@ Constitution for Human Creation grows through people who care about how powerful
 
 ## Professionals in every field
 
-We don't think a founder should decide how AI is used in medicine, law, or the classroom. People who do that work should help write those parts. We're especially looking for citizen professionals in fields like medicine and nursing, law, education, mental health, farming and ranching, the trades, public safety, and media to help shape the sections that touch their own work. Leadership roles will be chosen by vote as the group grows.
+We don't think a founder should decide how AI is used in medicine, law, or the classroom. People who do that work should help write those parts. We're especially looking for citizen professionals in fields like medicine and nursing, law, education, mental health, farming and ranching, the trades, public safety, and media to help shape the sections that touch their own work. Leaders will be chosen from among contributors by an open public vote.
 
 ## Speak for the project
 
-We need people willing to speak for the Constitution for Human Creation at public hearings, city and county meetings, libraries, classrooms, and community groups. You don't need to be an expert. We'll share the latest drafts and our [printable flyers](#print-a-flyer) so you can explain the project clearly. Speakers volunteer to share the project; they don't speak for any official position until the charter is voted on.
+We need people willing to speak for the Constitution for Human Creation at public hearings, city and county meetings, libraries, classrooms, and community groups. You don't need to be an expert. We'll share the latest drafts and our [printable flyers](#print-a-flyer) so you can explain the project clearly. Talking points are shared with confirmed speakers. Speakers volunteer to share the project; they don't speak for any official position until the charter is voted on.
 
 If you'd like to speak, email **[Rowe.heikkinen@chcag.org](mailto:Rowe.heikkinen@chcag.org?subject=Interested%20in%20speaking)** and tell us where you'd like to speak.
 
